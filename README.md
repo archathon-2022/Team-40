@@ -1,33 +1,27 @@
-# OLX Pakistan
+# Daily Deal
 
-It is project made at Hackathon of Saylani Welfare Mass IT Training Program Batch 5 (Weekend).
+It is project made at arch-a-thon Hackathon at rk university
 
-## Installation
+DAILY DEAL IS AN E-COMMERCE WEBSITE
 
-To view live demo of this project, visit [this link](https://myousufsoomro.github.io/OLX-Pakistan) or download this project and run locally.
+THE APPLICATION WILL HELP PEOPLES TO BUY OR SELL ITEMS
 
-Open CMD and run the following command:
+USER CAN EASILY SIGN UP IN THIS WEBSITE
 
-```bash
-git clone https://github.com/MYousufSoomro/OLX-Pakistan.git OLX-Pakistan
-```
+In this application user can put their stuff for selling 
+
+Also can buy things 
+
+Can view items based on category
+
+One can save ads or products that he /she wants to purchase in the near future
+
+User can find things according to the required category
+
+One can buy or sell products like mobile phones ,electronic gadgets, cars, bike, property, fashion items and books etc.
 
 
-## Content
-This Project consist of the following content;
 
-• Sign up form using Firebase Authentication.
 
-• Login Form 
 
-• Ad Posts on after logging in.
 
-• View Ads by Category.
-
-• Add any Ad to Wishlist to view the Ad later.
-
-• Create new Ad
-
-## Connect Me;
-
-[Facebook](https://www.facebook.com/MYousuf88/), [Twitter](https://www.twitter.com/MYousufSoomro/), [Instagram](https://www.instagram.com/MYousufSoomro), [LinkedIn](https://www.linkedin.com/in/myousufsoomro/)
